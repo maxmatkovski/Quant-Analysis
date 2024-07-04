@@ -1,1 +1,1 @@
-"# Quant-Analysis" 
+# Quant-Analysis
